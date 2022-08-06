@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{FDB32E75-B642-4F93-84BE-C2A051230F07}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleDependencyInjection.Library FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleDependencyInjection.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleDependencyInjection.Web PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
